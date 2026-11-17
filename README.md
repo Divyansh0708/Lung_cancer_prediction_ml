@@ -1,5 +1,5 @@
 # Lung_cancer_prediction_ml
-# 🫁 LungCare AI – Lung Cancer Prediction Using Machine Learning
+# LungCare AI – Lung Cancer Prediction Using Machine Learning
 
 **An Intelligent Machine Learning-Based Lung Cancer Prediction System**
 
@@ -11,7 +11,7 @@ The project also includes an interactive web dashboard developed using Streamlit
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Lung cancer is one of the major health concerns worldwide. Early awareness of potential risk factors can play an important role in encouraging timely medical consultation.
 
@@ -19,7 +19,7 @@ This project demonstrates how Machine Learning can be applied to healthcare-rela
 
 The system takes various patient-related inputs, processes them through a trained Random Forest model, and displays the predicted classification along with model-estimated probabilities.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Develop a machine learning model for lung cancer classification.
 - Analyze health and lifestyle-related factors.
@@ -29,7 +29,7 @@ The system takes various patient-related inputs, processes them through a traine
 - Visualize model performance and feature importance.
 - Maintain prediction history within the application session.
 
-## 📊 Dataset Information
+## Dataset Information
 
 **Dataset:** Survey Lung Cancer Dataset
 
@@ -66,7 +66,7 @@ The dataset contains survey-based information related to individuals' health con
 - YES – Positive class
 - NO – Negative class
 
-## 🤖 Machine Learning Algorithm
+## Machine Learning Algorithm
 
 This project uses the **Random Forest Classifier**.
 
@@ -80,7 +80,7 @@ Random Forest is a supervised machine learning algorithm that combines multiple 
 - Provides feature importance scores.
 - Supports probability-based predictions.
 
-## 📈 Model Performance
+## Model Performance
 
 The trained Random Forest model achieved the following evaluation results:
 
@@ -95,7 +95,7 @@ The trained Random Forest model achieved the following evaluation results:
 
 *These are the evaluation metrics recorded in the project's model metadata.*
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -108,7 +108,7 @@ The trained Random Forest model achieved the following evaluation results:
 | JSON | Model Metadata Storage |
 | Matplotlib | Data Visualization |
 
-## 🖥️ Application Features
+## Application Features
 
 ### 1. Model Insights
 - Displays model performance metrics.
@@ -132,7 +132,7 @@ The trained Random Forest model achieved the following evaluation results:
 - Allows users to download prediction history as a CSV file.
 - Provides an option to clear prediction history.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 machine_learning_pbl/
@@ -162,7 +162,7 @@ machine_learning_pbl/
 - `model_metadata.json` – Contains feature order, encoding information, and model evaluation metrics.
 - `README.md` – Project documentation.
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 Follow these steps to run the project locally.
 
@@ -196,7 +196,7 @@ After running the command, Streamlit will provide a local URL.
 
 Open the URL in your browser to access the LungCare AI dashboard.
 
-## 🔍 How the System Works
+## How the System Works
 
 1. Dataset is loaded into the machine learning environment.
 2. Health and lifestyle features are used as model inputs.
@@ -206,7 +206,7 @@ Open the URL in your browser to access the LungCare AI dashboard.
 6. The application generates a YES or NO classification.
 7. Model-estimated class probabilities and prediction history are displayed.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Integration with larger and more diverse datasets.
 - Further model validation and performance comparison.
@@ -216,7 +216,7 @@ Open the URL in your browser to access the LungCare AI dashboard.
 - Enhanced user interface and accessibility.
 - Clinical validation before any real-world healthcare application.
 
-## 👨‍💻 Project Information
+## Project Information
 
 **Project Title:** Lung Cancer Prediction Using Machine Learning
 
@@ -230,6 +230,5 @@ Open the URL in your browser to access the LungCare AI dashboard.
 
 ---
 
-⭐ If you find this project interesting, consider giving this repository a star!
 
 **Made with Python, Machine Learning & Streamlit.**
